@@ -1,5 +1,3 @@
-This repository explores the classification of handwritten digits (0-9) from the MNIST dataset using various machine learning algorithms and convolutional neural networks (CNNs).
-
 # MNIST Dataset Classification
 
 ## Overview
